@@ -1,4 +1,4 @@
-# 👨‍💻 Adnan Hamdan
+# 👨‍💻  Hi I'm Adnan Hamdan
 Hi! I'm Adnan, a passionate full-stack web developer with hands-on experience in building modern, scalable web applications using JavaScript technologies like React, Node.js, and PostgreSQL. I specialize in creating clean code, modular architectures (MVC), and seamless user experiences.
 
 
